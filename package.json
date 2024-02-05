@@ -1,0 +1,21 @@
+{
+  "name": "vscode-exupery",
+  "displayName": "vscode-exupery",
+  "description": "The most minimal color theme there could be.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "exupery",
+        "uiTheme": "vs",
+        "path": "./themes/exupery-color-theme.json"
+      }
+    ]
+  }
+}
