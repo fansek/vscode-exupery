@@ -2,7 +2,7 @@
   "name": "vscode-exupery",
   "displayName": "vscode-exupery",
   "description": "The most minimal color theme there could be.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "fansek",
   "repository": {
     "type": "git",
@@ -20,6 +20,31 @@
         "label": "exupery",
         "uiTheme": "vs",
         "path": "./themes/exupery-color-theme.json"
+      },
+      {
+        "label": "exupery-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/exupery-color-theme.json"
+      },
+      {
+        "label": "exupery-light",
+        "uiTheme": "hc-light",
+        "path": "./themes/exupery-color-theme.json"
+      },
+      {
+        "label": "exupery-black",
+        "uiTheme": "hc-black",
+        "path": "./themes/exupery-color-theme.json"
+      },
+      {
+        "label": "exupery-modern",
+        "uiTheme": "vs",
+        "path": "./themes/exupery-modern-color-theme.json"
+      },
+      {
+        "label": "exupery-modern-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/exupery-modern-dark-color-theme.json"
       }
     ]
   }
