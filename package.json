@@ -3,6 +3,10 @@
   "displayName": "vscode-exupery",
   "description": "The most minimal color theme there could be.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fansek/vscode-exupery.git"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
